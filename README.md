@@ -1,21 +1,26 @@
 # Learning Kubernetes ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
+
 Kubernetes Resources
 
 ---
 
-## Courses:
-### Paid:
+## Courses
+
+### Paid
+
 - [LinkedIN Learning](https://www.linkedin.com/learning/learning-kubernetes?u=78738569)
 - [CloudSkills.io](https://cloudskills.io/courses/k8s)
 - [ACloud Guru](https://acloud.guru/overview/kubernetes-deep-dive)
 - [PluralSight](https://www.pluralsight.com/courses/kubernetes-getting-started)
 
-### Free:
+### Free
+
 - [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [FreeCodeCamp](https://www.youtube.com/watch?v=Wf2eSG3owoA)
 - [Anais Urlichs #100DaysOfKubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)
 
-## Books:
+## Books
+
 - [Kubernetes: A Step by Step Guide to Learn  and Master Kubernetes](https://www.amazon.com/Kubernetes-Step-Step-Guide-Master/dp/1090401639?tag=uuid10-20)
 - [Kubernetes in Action: 1st Edition](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725?imprToken=BjvRFWEO2l-nTZPl.aKZJA&slotNum=0&SubscriptionId=AKIAISZEV7KFUG4ORUMQ&tag=reactdom-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1617293725)
 - [Kubernetes: The Complete Guide to Master Kubernetes](https://www.amazon.com/Kubernetes-Complete-Guide-Master-March/dp/1096165775?tag=uuid10-20)
@@ -26,8 +31,8 @@ Kubernetes Resources
 
 ## My Progress - #100DaysOfKubernetes
 
-- [My Twitter](https://twitter.com/rishabk7)
-- [My LinkedIn](https://www.linkedin.com/in/rishabkumar7)
+- [My Twitter](https://twitter.com/suryaavala)
+- [My LinkedIn](https://www.linkedin.com/in/suryaavala)
 
 ## Stepping out the door
 
@@ -146,7 +151,7 @@ Kubernetes Resources
 - [ ] ☸ 89 > [](Journey/089/Readme.md)
 - [ ] ☸ 90 > [](Journey/090/Readme.md)
 
-## Into the sky to touch the cloud!
+## Into the sky to touch the cloud
 
 - [ ] ☸ 91 > [](Journey/091/Readme.md)
 - [ ] ☸ 92 > [](Journey/092/Readme.md)
